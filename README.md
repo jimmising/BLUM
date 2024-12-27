@@ -1,2 +1,0 @@
-# BLUM
-#blumbot #blum #telegrambot
